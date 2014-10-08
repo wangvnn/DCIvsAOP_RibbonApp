@@ -1,0 +1,8 @@
+﻿<Application x:Class="MyRibbonAOP.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="01 Infrastructure/01 WPF_UI/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

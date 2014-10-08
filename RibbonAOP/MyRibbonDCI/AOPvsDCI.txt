@@ -1,0 +1,24 @@
+OAP
+
+- data inheritance (new)
++ ie: adding id (and id generator)
++ ie: adding timestamp
+
+- behaviour inheritance (new)
++ add new override behaviours, ie implement concrete behaviours
+
+- add new association between classes
++ one class(aggregate) should not know about other classes except its aggregate's sub entities
+
+DCI
+ The focus is on readable, understandable code for use cases.
+ 
+ user has in his or her head:
+
+- The roles and interactions between them ("Transferring money involves moving money from a SourceAccount to a DestinationAccount");
+- The domain objects ("I have a SavingsAccount and a CheckingAccount");
+- The mapping between them ("I am going to do a money transfer from my SavingsAccount to my CheckingAccount")
+
+The chair stands on three legs: roles and Interactions; domain Data; and the Context that maps between them.
+CRC - RRC
+Candidate Roles, Responsibility, Collaboration

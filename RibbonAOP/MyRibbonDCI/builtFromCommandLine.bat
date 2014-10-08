@@ -1,0 +1,1 @@
+buildFromVSExternalTool.bat .\ MyRibbonDCI..exe
