@@ -22,13 +22,13 @@ Conclusion:
 
 Short verions:
 
-RibbonApp built by traditional OOP done right with the magic of AOP is very with the above properties.
+RibbonApp built by traditional OOP Technique done right with the magic of AOP to have all the above properties.
 Which I believe it is state of the art of OOP done by OOP expert.
 
 RibbonApp built by DCI helps to capture algo/flow/usecase related code into one place.
-And make it more readable, understandable hence changable.
+And make it more readable, understandable hence changable/maintainable.
 
-End of the date the both techniques are orthogonal so they can be use together without any problem.
+End of the day the both techniques are orthogonal so they can be use together without any problem.
 
 Very long version:
 https://github.com/wangvnn/DCIvsAOP_RibbonApp/blob/master/RibbonAOP/MyRibbonDCI/00%20Requirements/RibbonAppRequirements.cs
