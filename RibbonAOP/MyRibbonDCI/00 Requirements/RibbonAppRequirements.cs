@@ -203,7 +203,7 @@ namespace MyRibbon.Requirements
      *     Track has isClosed property which feels like higher level property
      *     Which should not be in the Track, so that it might be easier
      *     to reuse the Track somewhere else (again depend on programmer mental model).
-     *     The isClosed actually means isBeingDrewByUser
+     *     The isClosed actually means isbeingdrawnByUser
      *     I miss understand isClosed as the property to indicate
      *     a cyclic Track which is very scary when dealing with Track
      * 
